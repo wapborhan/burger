@@ -1,0 +1,646 @@
+.imgd img {
+    width: 100%;
+}
+
+
+/*Header Start*/
+#header {
+    background: url(../images/header-bg.jpg) #FFC135;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main-head {
+    padding: 50px 0px;
+}
+
+.menu-content-img {
+    display: inline-block;
+}
+
+.menu-main-content {
+    display: inline-block;
+    padding-left: 25px;
+    font-size: 17px;
+    font-family: "Montserrat";
+    font-weight: 700;
+    color: #42200b;
+}
+
+.main-menu ul li {
+    display: inline;
+    padding-left: 60px;
+}
+
+.menu ul li a {
+    font-family: 'Bebas Neue', cursive;
+    color: #42200b;
+    line-height: 45px;
+    text-decoration: none;
+}
+
+
+.hd-content-left p {
+    color: #42200b;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: 'myriad-pro', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    padding-left: 13px;
+    border: dashed 4px;
+}
+
+.hd-content-left h1 {
+    padding-top: 20px;
+    font-size: 100px;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow: 2px 3px white;
+    text-transform: uppercase;
+}
+
+.hd-content-left h2 {
+    font-size: 60px;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    text-shadow: 2px 3px white;
+    text-transform: uppercase;
+}
+
+.hd-content-right img {
+    width: 100%;
+}
+
+..hd-content-right {
+    position: relative;
+}
+
+.hd-content-offer {
+    position: absolute;
+    right: 355px;
+    top: 210px;
+    left: 85px;
+    transform: translate(10px, 10px);
+}
+
+.hd-content-offer-text {
+    position: relative;
+    top: -110px;
+    left: 40px;
+}
+
+.hd-content-offer-text h1 {
+    font-size: 34px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.hd-content-offer-text h1 span {
+    font-size: 25px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+/*Header End*/
+
+
+/*Product Part Start*/
+#product {
+    padding-top: 50px;
+}
+
+.product-imgt {
+    position: absolute;
+}
+
+.product-content {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.product-content h1 {
+    font-size: 40px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.product-content h2 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.pr-btn {
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+
+.pr-btn a {
+    padding: 10px 25px;
+    background: #FFC135;
+    color: #42200b;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+
+
+product-item {
+    position: relative;
+}
+
+.product-item2 {
+    overflow: hidden;
+    clear: both;
+    position: relative;
+    top: -78px;
+    padding-top: 30px;
+}
+
+.product-content2 {
+    position: relative;
+    top: -155px;
+    left: 20px;
+}
+
+
+.product-content2 h1 {
+    font-size: 40px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.product-content2 h2 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.product-content3 {
+    position: relative;
+    top: -240px;
+    left: 20px;
+}
+
+.product-content3 h1 {
+    font-size: 40px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.product-content3 h2 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+}
+
+/*Product Part End*/
+
+
+
+/*Iteam Part Start*/
+#iteam {
+    padding-bottom: 155px;
+}
+
+.item-head {
+    text-align: center;
+    /*    padding-top: 40px;*/
+
+}
+
+.item-head h2 {
+    font-size: 50px;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.item-head p {
+    font-size: 15px;
+    color: #42200b;
+    font-family: "Montserrat";
+    padding: 0 50px;
+
+}
+
+.item-image h1 {
+    font-size: 30px;
+    color: #42200b;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.item-image p {
+    font-size: 15px;
+    color: #42200b;
+    font-family: "Montserrat";
+    padding-bottom: 35PX;
+    padding-top: 25PX;
+}
+
+.item-btn {
+    background: #df1c1c;
+    padding: 10px 40px;
+    font-size: 15px;
+    color: white;
+    font-family: 'Alfa Slab One', cursive;
+    text-transform: uppercase;
+
+}
+
+.item-image {
+    width: 28%;
+    float: left;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.item-imga img {
+    width: 369px;
+    height: 320px;
+}
+
+/*Iteam Part End*/
+
+
+
+/* Slider Part Start */
+#slider {
+    padding-bottom: 50px;
+}
+
+
+#myCarousel .carousel-item .mask {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-attachment: fixed;
+}
+
+#myCarousel h4 {
+    margin-bottom: 15px;
+    line-height: 100%;
+    letter-spacing: 0.5px;
+    font-size: 30px;
+    color: #42200b;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+
+#myCarousel h2 {
+    font-size: 35px;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+#myCarousel p {
+    font-size: 15px;
+    color: #3b3b3b;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    line-height: 2em;
+    padding-bottom: 20px;
+
+}
+
+#myCarousel .carousel-item a {
+    background: #F47735;
+    font-size: 14px;
+    color: #FFF;
+    padding: 13px 32px;
+    display: inline-block;
+}
+
+#myCarousel .carousel-item a:hover {
+    background: #394fa2;
+    text-decoration: none;
+}
+
+#myCarousel {
+    box-shadow: 0px 7px 20px 0px black;
+}
+
+#myCarousel .carousel-item .mask img {
+    max-width: 100%;
+}
+
+
+#myCarousel .carousel-item {
+    height: 100%;
+    min-height: 350px;
+}
+
+
+.carousel-control-next,
+.carousel-control-prev {
+    height: 40px;
+    width: 40px;
+    padding: 12px;
+    top: 50%;
+    bottom: auto;
+    transform: translateY(-50%);
+    background-color: #f47735;
+    visibility: hidden;
+}
+
+
+.carousel-item {
+    position: relative;
+    display: none;
+
+}
+
+.carousel-indicators {
+    position: absolute;
+    left: -85%;
+    /*    top: 0;*/
+    z-index: 15;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-left: 0;
+    margin-right: 15%;
+    margin-left: 15%;
+    list-style: none;
+
+}
+
+.carousel-indicators li {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.carousel-indicators .active {
+    background-color: #ffc135;
+}
+
+.box-ssd {}
+
+/* Slider Part End */
+
+
+
+/* Contact Form Start*/
+#contact-form {
+    padding-top: 80px;
+    padding-bottom: 180px;
+}
+
+.contact-content h2 {
+    font-size: 30px;
+    color: #42200b;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+
+.contact-content h1 {
+    font-size: 40px;
+    color: #42200b;
+    font-family: 'Alfa Slab One', cursive;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+
+.contact-form {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 90px;
+}
+
+.input-first {
+    width: 45%;
+    float: left;
+    padding-right: 35px;
+    padding-bottom: 25px;
+    text-transform: uppercase;
+}
+
+.contact-form .input-first input {
+    width: 100%;
+    width: 100%;
+    padding: 12px 0px 12px 10px;
+
+}
+
+.contact-form .input-first input[type="submit"] {
+    width: 100%;
+    width: 100%;
+    padding: 10px 0px 10px 10px;
+    background: #df1c1c;
+    font-size: 15px;
+    color: #FFF;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.textbox-n {
+    color: black;
+    text-transform: uppercase;
+    padding-right: 35px;
+    padding-bottom: 25px;
+}
+
+.img-position {
+    position: relative;
+}
+
+.img-burge {
+    position: absolute;
+    top: -35px;
+    left: -190px;
+}
+
+.img-bottle {
+    position: absolute;
+    top: 270px;
+    left: -140px;
+}
+
+.img-plate {
+    position: absolute;
+    top: 140px;
+    right: -189px;
+}
+
+.post-img img {
+    width: 100%;
+}
+
+/* Contact Form End*/
+
+
+/*Footer Part Start*/
+#footer {
+    background: url(../images/footer-bg.jpg) #42200b;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.foot-logo {
+    padding-top: 40px;
+}
+
+.foot-content {
+    width: 100%;
+    padding-top: 30px;
+}
+
+.foot-content-left {
+    float: left;
+}
+
+.foot-content-left p {
+    padding-right: 50px;
+    font-size: 15px;
+    color: #FFF;
+    font-family: "Montserrat";
+}
+
+.foot-content-right {
+    float: right;
+}
+
+.foot-content-right ul {
+    list-style-type: none;
+}
+
+.foot-content-right ul li {
+    padding-bottom: 20px;
+    font-size: 18px;
+    color: #fff;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+
+.foot-content-right ul li i {
+    padding-right: 20px;
+}
+
+
+
+
+
+.foot-copyright {
+    padding-top: 170px;
+    width: 100%;
+    padding-bottom: 50px;
+}
+
+.foot-copyright-left {
+
+    color: #fff;
+    font-family: 'Bebas Neue', cursive;
+    text-transform: uppercase;
+}
+
+.foot-copyright-right {
+    float: right;
+
+}
+
+.foot-icon {
+    text-align: right;
+    color: #ffffff;
+}
+
+.foot-icon ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+.foot-icon ul li {
+    display: inline;
+    padding-left: 20px;
+}
+
+.foot-icon ul li i {}
+
+.foot-icon ul li i:hover {
+    color: firebrick;
+}
+
+/*Footer Part End*/
+
+
+.desigh-by h1 {
+    color: white
+}
+
+.desigh-by h1 a {
+    color: aqua;
+    text-decoration: none;
+}
+
+.linksl {
+    outline: none;
+    text-decoration: none;
+    position: relative;
+    /*    font-size: 8em;*/
+    line-height: 1;
+    color: #9e9ba4;
+    display: inline-block;
+}
+
+
+.kukuri {
+    text-transform: uppercase;
+    font-weight: 900;
+    overflow: hidden;
+    line-height: 0.75;
+    color: #b2b0a9;
+}
+
+.kukuri:hover {
+    color: #b2b0a9;
+}
+
+.kukuri::after {
+    content: '';
+    position: absolute;
+    height: 16px;
+    width: 100%;
+    top: 50%;
+    margin-top: -8px;
+    right: 0;
+    background: #f9f9f9;
+    transform: translate3d(-100%, 0, 0);
+    transition: transform 0.4s;
+    transition-timing-function: cubic-bezier(0.7, 0, 0.3, 1);
+}
+
+.kukuri:hover::after {
+    transform: translate3d(100%, 0, 0);
+}
+
+.kukuri::before {
+    content: attr(data-letters);
+    position: absolute;
+    z-index: 2;
+    overflow: hidden;
+    color: #424242;
+    white-space: nowrap;
+    width: 0%;
+    transition: width 0.4s 0.3s;
+}
+
+.kukuri:hover::before {
+    width: 100%;
+}
